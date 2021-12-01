@@ -11,16 +11,12 @@ and bridging the the gap in the process of communication between the Deaf and Du
 
 
 ## Workflow
-The classification algorithm that has been used in baseline model:
-
-* Logistic Regression
-![]() 
-
-after visualizing the data, we started to prepare it for baseline model. The data image comes with 4 dimensions first we reshaped data to 2-dimensional data and then we built a logistic regression model. The score is very low as we expected 0.54 on training and 0.53 on validation.in the future, we will start to build a neural network models and will try to get 
- better results  on both training and validation .
-
-
 * Baseline Model "Logestic Regresstion" 
+
+![](images/photo2.PNG) 
+
+after visualizing the data, we started to prepare it for baseline model. The data image comes with 4 dimensions first we reshaped data to 2-dimensional data and then we built a logistic regression model. The score is very low as we expected 0.54 on training and 0.53 on validation. We start to build a neural network models and  try to get  better results  on both training and validation .
+
 * Neural Network
 * Convolutional Neral Network(CNN)
 * Transfer Learning 
