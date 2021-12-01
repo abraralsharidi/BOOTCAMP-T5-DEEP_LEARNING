@@ -11,4 +11,15 @@ The goal of the project is to build a Neural Network multi-label classification 
 The dataset was imported from the Kaggle website. the dataset contains more than 70000 sign language images, each letter has 3000 images. sign language letters images have been taken in different shapes, resolutions, lighting, and rotation.
 
 ## Tools
-•Jupyter Notebook •Matplotlib •Numpy •Pandas •Sklearn •Patsy •keras • sklearn •tensorflow •Pickle (edited) 
+•Jupyter Notebook
+•Matplotlib 
+•Numpy 
+•Pandas
+•Sklearn 
+•Patsy
+•keras 
+• sklearn
+•tensorflow 
+•Pickle (edited)
+________________________________________
+MVP
