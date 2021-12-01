@@ -1,3 +1,4 @@
+
 # Sin Language Reognition 
 The goal of this project is to build Convelution Neural Network(CNN) 
 deep learning models that decide which is the letter based on the shape of the hand in sign language
@@ -7,13 +8,15 @@ and bridging the the gap in the process of communication between the Deaf and Du
 
 
 ## Workflow
-
-
+* Baseline Model 
+* Neural Network
+* Convolutional Neral Network(CNN)
+* Transfer Learning 
 
 
 ## Next step 
-
 We will use Real Time Sign Language Detection with Tensorflow Object Detection and Python 
+
 
 
 
