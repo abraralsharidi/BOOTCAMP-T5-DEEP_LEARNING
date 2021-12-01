@@ -6,16 +6,19 @@ and bridging the the gap in the process of communication between the Deaf and Du
 
 ## Sample of Dataset
 
+![](images/photo1.JPG)
+
+
 
 ## Workflow
-* Baseline Model 
+* Baseline Model "Logestic Regresstion" 
 * Neural Network
 * Convolutional Neral Network(CNN)
 * Transfer Learning 
 
 
 ## Next step 
-We will use Real Time Sign Language Detection with Tensorflow Object Detection and Python 
+* We will use Real Time Sign Language Detection with Tensorflow Object Detection and Python 
 
 
 
