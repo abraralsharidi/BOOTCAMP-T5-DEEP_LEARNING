@@ -21,5 +21,3 @@ The dataset was imported from the Kaggle website. the dataset contains more than
 • sklearn
 •tensorflow 
 •Pickle (edited)
-________________________________________
-MVP
