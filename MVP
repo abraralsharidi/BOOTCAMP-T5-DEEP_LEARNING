@@ -1,0 +1,4 @@
+# sin language recognition 
+
+The goal of this project is to build Convelution Neural Network(CNN) 
+deep learning models that decide which is the letter based on the shape of the hand in sign language
